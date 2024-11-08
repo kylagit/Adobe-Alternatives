@@ -31,7 +31,7 @@
 
 - ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
+- ⭐️ (🔒) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(Mac)*
